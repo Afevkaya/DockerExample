@@ -1,0 +1,14 @@
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Debug\net8.0\UdemyDockerConsole.exe
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Debug\net8.0\UdemyDockerConsole.deps.json
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Debug\net8.0\UdemyDockerConsole.runtimeconfig.json
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Debug\net8.0\UdemyDockerConsole.dll
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Debug\net8.0\UdemyDockerConsole.pdb
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.AssemblyInfoInputs.cache
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.AssemblyInfo.cs
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.csproj.CoreCompileInputs.cache
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.dll
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\refint\UdemyDockerConsole.dll
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.pdb
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.genruntimeconfig.cache
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\ref\UdemyDockerConsole.dll

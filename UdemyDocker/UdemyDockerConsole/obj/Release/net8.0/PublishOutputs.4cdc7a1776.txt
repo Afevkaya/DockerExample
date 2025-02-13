@@ -1,0 +1,5 @@
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Release\net8.0\publish\UdemyDockerConsole.exe
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Release\net8.0\publish\UdemyDockerConsole.dll
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Release\net8.0\publish\UdemyDockerConsole.deps.json
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Release\net8.0\publish\UdemyDockerConsole.runtimeconfig.json
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\bin\Release\net8.0\publish\UdemyDockerConsole.pdb
