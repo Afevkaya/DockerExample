@@ -49,3 +49,13 @@ $RECYCLE.BIN/
 
 # Rider directories
 .idea/
+
+# Docker files
+*.dockerfile
+Dockerfile
+docker-compose.yml
+docker-compose.override.yml
+
+# Docker directories
+.docker/
+docker/

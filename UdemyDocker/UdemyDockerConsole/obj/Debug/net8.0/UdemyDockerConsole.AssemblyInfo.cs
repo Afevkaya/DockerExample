@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UdemyDockerConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f060a89b3adcf00f0f1a240453e793bdf6770375")]
 [assembly: System.Reflection.AssemblyProductAttribute("UdemyDockerConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UdemyDockerConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

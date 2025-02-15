@@ -12,3 +12,4 @@ D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\refint\UdemyD
 D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.pdb
 D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.genruntimeconfig.cache
 D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\ref\UdemyDockerConsole.dll
+D:\BE\Fatih\Docker\UdemyDocker\UdemyDockerConsole\obj\Debug\net8.0\UdemyDockerConsole.sourcelink.json
